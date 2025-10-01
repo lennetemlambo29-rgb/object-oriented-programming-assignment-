@@ -2,7 +2,7 @@ package bankingapp;
 
 public class AccountTest {
     public static void main(String[] args) {
-        Account acc1 = new Account("Madzipapi", 1000.0);
+        Account acc1 = new Account("Lee&Marshy", 1000.0);
 
         acc1.deposit(20000.0);      
         acc1.withdraw(600.0);     
@@ -10,4 +10,5 @@ public class AccountTest {
         System.out.println("Final Balance: " + acc1.getBalance());
     }
 }
+
 
