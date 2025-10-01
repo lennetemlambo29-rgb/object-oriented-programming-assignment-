@@ -1,0 +1,64 @@
+Melanin deposited 500.0. Balance: 1500.0
+Melanin withdrew 200.0. Balance: 1300.0
+Melanin attempted withdrawal of 2000.0 (FAILED). Balance: 1300.0
+Melanin checked balance. Current balance: 1300.0
+Melanin deposited 500.0. Balance: 1500.0
+Melanin withdrew 200.0. Balance: 1300.0
+Melanin attempted withdrawal of 2000.0 (FAILED). Balance: 1300.0
+Melanin checked balance. Current balance: 1300.0
+Melanin deposited 500.0. Balance: 1500.0
+Melanin withdrew 200.0. Balance: 1300.0
+Melanin attempted withdrawal of 2000.0 (FAILED). Balance: 1300.0
+Melanin checked balance. Current balance: 1300.0
+Melanin deposited 500.0. Balance: 1500.0
+Melanin withdrew 200.0. Balance: 1300.0
+Melanin attempted withdrawal of 2000.0 (FAILED). Balance: 1300.0
+Melanin checked balance. Current balance: 1300.0
+Melanin deposited 500.0. Balance: 1500.0
+Melanin withdrew 200.0. Balance: 1300.0
+Melanin attempted withdrawal of 2000.0 (FAILED). Balance: 1300.0
+Melanin checked balance. Current balance: 1300.0
+Madzipapi deposited 500.0. Balance: 1500.0
+Madzipapi withdrew 200.0. Balance: 1300.0
+Madzipapi attempted withdrawal of 2000.0 (FAILED). Balance: 1300.0
+Madzipapi checked balance. Current balance: 1300.0
+Madzipapi deposited 500.0. Balance: 1500.0
+Madzipapi withdrew 200.0. Balance: 1300.0
+Madzipapi attempted withdrawal of 2000.0 (FAILED). Balance: 1300.0
+Madzipapi checked balance. Current balance: 1300.0
+Madzipapi deposited 500.0. Balance: 1500.0
+Madzipapi withdrew 200.0. Balance: 1300.0
+Madzipapi attempted withdrawal of 2000.0 (FAILED). Balance: 1300.0
+Madzipapi checked balance. Current balance: 1300.0
+Madzipapi deposited 500.0. Balance: 1500.0
+Madzipapi withdrew 200.0. Balance: 1300.0
+Madzipapi attempted withdrawal of 2000.0 (FAILED). Balance: 1300.0
+Madzipapi checked balance. Current balance: 1300.0
+Madzipapi deposited 500.0. Balance: 1500.0
+Madzipapi withdrew 200.0. Balance: 1300.0
+Madzipapi attempted withdrawal of 2000.0 (FAILED). Balance: 1300.0
+Madzipapi checked balance. Current balance: 1300.0
+Madzipapi deposited 500.0. Balance: 1500.0
+Madzipapi withdrew 200.0. Balance: 1300.0
+Madzipapi attempted withdrawal of 2000.0 (FAILED). Balance: 1300.0
+Madzipapi checked balance. Current balance: 1300.0
+Madzipapi deposited 500.0. Balance: 1500.0
+Madzipapi withdrew 200.0. Balance: 1300.0
+Madzipapi attempted withdrawal of 2000.0 (FAILED). Balance: 1300.0
+Madzipapi checked balance. Current balance: 1300.0
+Madzipapi deposited 500.0. Balance: 1500.0
+Madzipapi withdrew 200.0. Balance: 1300.0
+Madzipapi attempted withdrawal of 2000.0 (FAILED). Balance: 1300.0
+Madzipapi checked balance. Current balance: 1300.0
+Madzipapi deposited 500.0. Balance: 1500.0
+Madzipapi withdrew 600.0. Balance: 900.0
+Madzipapi attempted withdrawal of 2000.0 (FAILED). Balance: 900.0
+Madzipapi checked balance. Current balance: 900.0
+Madzipapi deposited 20000.0. Balance: 21000.0
+Madzipapi withdrew 600.0. Balance: 20400.0
+Madzipapi withdrew 2000.0. Balance: 18400.0
+Madzipapi checked balance. Current balance: 18400.0
+Madzipapi deposited 20000.0. Balance: 21000.0
+Madzipapi withdrew 600.0. Balance: 20400.0
+Madzipapi withdrew 2000.0. Balance: 18400.0
+Madzipapi checked balance. Current balance: 18400.0
